@@ -1,5 +1,11 @@
 🚀 What is [Esbuild](https://esbuild.github.io/)
 
-### Bundle file
+### Usage
+
+```js
+npm run build
+```
+
+### Bundle output file
 
 `out.js`
