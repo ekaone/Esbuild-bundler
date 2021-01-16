@@ -8,4 +8,4 @@ npm run build
 
 ### Bundle output file
 
-`out.js`
+[`out.js`](https://github.com/ekaone/Esbuild-bundler/blob/main/out.js)
